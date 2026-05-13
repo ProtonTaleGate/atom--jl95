@@ -1,4 +1,4 @@
-# 
+# Enhance Atom for PC | Atom for Windows with custom Atom for PC | Atom for Windows Snippet | auto-completion + Git-integration, the #1 snippet. Includes auto-completion and
 
 
 
